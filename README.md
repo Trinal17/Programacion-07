@@ -380,6 +380,59 @@ Resumen:
 
 - **Usa BufferedWriter** Si necesitas realizar operaciones de escritura más complejas en el archivo.
 
+
+Ejemplos:
+
+```
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class Main {
+    public static void main(String[] args) {
+        String rutaArchivo = "ruta/de/tu/archivo.txt";
+        String linea = "Esta es la línea que quieres agregar al archivo.";
+
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(rutaArchivo, true))) {
+            writer.write(linea);
+            writer.newLine(); // Agregar un salto de línea después de la línea
+            System.out.println("Línea agregada al archivo.");
+        } catch (IOException e) {
+            System.out.println("Error al escribir en el archivo.");
+            e.printStackTrace();
+        }
+    }
+}
+
+```
+
+```
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.Collections;
+
+public class Main {
+    public static void main(String[] args) {
+        String rutaArchivo = "ruta/de/tu/archivo.txt";
+        String linea = "Esta es la línea que quieres agregar al archivo.";
+
+        Path archivo = Paths.get(rutaArchivo);
+
+        try {
+            Files.write(archivo, Collections.singletonList(linea), java.nio.file.StandardOpenOption.APPEND);
+            System.out.println("Línea agregada al archivo.");
+        } catch (IOException e) {
+            System.out.println("Error al escribir en el archivo.");
+            e.printStackTrace();
+        }
+    }
+}
+
+```
+
+
 ### **Files.readAllLines() vs Files.newBufferedReader()**
 
 **Files.readAllLines()** es una opción más simple y conveniente si solo necesita leer todo el contenido del archivo de texto en una lista de cadenas de texto. Este método maneja automáticamente la apertura, lectura y cierre del archivo automáticamente, y devuelve el contenido del archivo como una lista de cadenas de texto.
