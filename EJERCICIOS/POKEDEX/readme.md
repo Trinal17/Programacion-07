@@ -1,6 +1,6 @@
 # POKEDEX WEB
 
-<img src="https://user-images.githubusercontent.com/91023374/231422148-c2699d1c-2aab-452c-915d-406c4fc85eb4.png" height="200"/>
+<img src="https://user-images.githubusercontent.com/91023374/231422148-c2699d1c-2aab-452c-915d-406c4fc85eb4.png" height="400"/>
 
 ## Con la realización de este proyecto vamos a aprender a:
 
