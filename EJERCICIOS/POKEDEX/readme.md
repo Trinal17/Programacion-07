@@ -8,6 +8,8 @@
 - Usar la librería **Gson** para convertir el json a objetos Java, concretamente a objetos Pokemon
 - Mostrar la información del Pokemon en cuestión en una página HTML
 
+____
+
 ## Monta el proyecto
 
 Descarga la carpeta del proyecto para empezar a trabajar.
