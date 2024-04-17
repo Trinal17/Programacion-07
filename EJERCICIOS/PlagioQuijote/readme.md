@@ -13,9 +13,9 @@
 
 - Debes copiar dicho contenido 
 
-         - de: original/quijote.txt
+         de: original/quijote.txt
 
-         - a: copia/quijote_copia.txt
+         a: copia/quijote_copia.txt
 
 - Al final del fichero copia se va a añadir la frase 'ESTA ES UNA COPIA PERMITIDA DEL QUIJOTE'.
 
