@@ -12,6 +12,14 @@
 
 Descarga la carpeta del proyecto para empezar a trabajar.
 
+Monta el proyecto en tu entorno, despliégalo y comprueba que funciona en tu navegador.
+
+Debe salir la página html de inicio y al dar ver info, se mostrará simplemente un mensaje:
+
+<img src="https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/476eb14b-416f-4364-969d-c0e23e0d879e" height="200"/>
+
+
+
 ## Mostrar una ficha completa del pokemon o la imagen frontal o la imagen trasera
 
 Usando la siguiente página html, el servlet recibirá la información pertienente para decidir qué devolver.
