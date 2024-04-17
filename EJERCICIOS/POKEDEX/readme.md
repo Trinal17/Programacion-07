@@ -14,7 +14,12 @@ ____
 
 Descarga la carpeta del proyecto para empezar a trabajar.
 
-Monta el proyecto en tu entorno, despliégalo y comprueba que funciona en tu navegador.
+Monta el proyecto en tu entorno, genera el paquete WAR con Maven, despliégalo y comprueba que funciona en tu navegador.
+
+Observa que el archivo **pom.xml** contiene una nueva dependencia. Es la que me permitirá usar la librería GSON:
+
+![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/ec0a4c75-96de-48a8-96ae-9cf5c8a22cc3)
+
 
 Debe salir la página html de inicio y al dar ver info, se mostrará simplemente un mensaje:
 
