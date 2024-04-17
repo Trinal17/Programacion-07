@@ -1,5 +1,4 @@
-# POKEDEX WEB
-
+# POKEDEX WEB: práctica guiada
 <img src="https://user-images.githubusercontent.com/91023374/231422148-c2699d1c-2aab-452c-915d-406c4fc85eb4.png" height="400"/>
 
 ## Con la realización de este proyecto vamos a aprender a:
@@ -9,7 +8,13 @@
 - Usar la librería **Gson** para convertir el json a objetos Java, concretamente a objetos Pokemon
 - Mostrar la información del Pokemon en cuestión en una página HTML
 
-## Mostrar una ficha completa del pokemon.
+## Monta el proyecto
+
+Descarga la carpeta del proyecto para empezar a trabajar.
+
+## Mostrar una ficha completa del pokemon o la imagen frontal o la imagen trasera
+
+Usando la siguiente página html, el servlet recibirá la información pertienente para decidir qué devolver.
 
 **Página index.html:**
 
@@ -21,4 +26,13 @@ ___
 **Página HTML resultado:**
 
 <img src="https://user-images.githubusercontent.com/91023374/231729364-0ae60908-bf0d-4b6d-bbf2-fc7eb4465ad2.png" height="200"/>
+
+
+___
+
+### WEB INTERESANTE: Generate Plain Old Java Objects from JSON or JSON-Schema
+
+https://www.jsonschema2pojo.org/
+
+![image](https://user-images.githubusercontent.com/91023374/232442531-d80411cd-9af9-490a-98fa-eea8959e85f9.png)
 
