@@ -4,10 +4,10 @@
 
 ## Con la realización de este proyecto vamos a aprender a:
 
-- conectar a un API de Pokemon vía web **https://pokeapi.co/api/v2/pokemon/**
-- guardar el JSON en el filesystem con la información pertinente
-- usar la librería **Gson** para convertir el json a objetos Java, concretamente a objetos Pokemon
-- mostrar la información del Pokemon en cuestión en una página HTML
+- Conectar a un API de Pokemon vía web **https://pokeapi.co/api/v2/pokemon/**
+- Guardar el JSON en el filesystem con la información pertinente
+- Usar la librería **Gson** para convertir el json a objetos Java, concretamente a objetos Pokemon
+- Mostrar la información del Pokemon en cuestión en una página HTML
 
 ## Mostrar una ficha completa del pokemon.
 
