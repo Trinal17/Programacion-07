@@ -11,9 +11,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
-/**
- * https://github.com/profeMelola/Programacion_2022-23/tree/main/UT10_LECTURA%20Y%20ESCRITURA%20DE%20INFORMACI%C3%93N/EJERCICIOS/PlagioQuijote
- */
 public class CopiarQuijoteInicial {
     static String COPYRIGTH = "'ESTA ES UNA COPIA PERMITIDA DEL QUIJOTE'";
 
