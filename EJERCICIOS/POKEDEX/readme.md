@@ -31,6 +31,8 @@ ____
 
 Usando la siguiente página html, el servlet recibirá la información pertienente para decidir qué devolver.
 
+Sigue los pasos que te indique el profesor.
+
 **Página index.html:**
 
 ___
