@@ -11,7 +11,7 @@
 
 ## Mostrar una ficha completa del pokemon.
 
-**index.html**
+**Página index.html**
 
 ![image](https://user-images.githubusercontent.com/91023374/231729308-8aec30d0-d840-423d-a4ed-0a7f1c5ac6e8.png)
 
