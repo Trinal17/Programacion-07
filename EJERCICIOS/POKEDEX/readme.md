@@ -11,13 +11,13 @@
 
 ## Mostrar una ficha completa del pokemon.
 
-<center>**Página index.html**</center>
+**Página index.html**
 
 <img src="https://user-images.githubusercontent.com/91023374/231729308-8aec30d0-d840-423d-a4ed-0a7f1c5ac6e8.png" height="200"/>
 
 ___
 
-<center>**Página HTML resultado**</center>
+**Página HTML resultado**
 
 <img src="https://user-images.githubusercontent.com/91023374/231729364-0ae60908-bf0d-4b6d-bbf2-fc7eb4465ad2.png" height="200"/>
 
