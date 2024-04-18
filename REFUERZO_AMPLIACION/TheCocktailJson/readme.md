@@ -21,7 +21,7 @@ Obtendrás un json con toda la información para preparar un **cocktail Margarit
 
 ## Desarrolla un proyecto web. Requisitos
 
-- Debes crear un proyecto web donde en la página index.xml te de opción para escribir el nombre del cóctel del que quieres buscar información. Puedes usar un input text o un select (lista) con diferentes cócteles...
+- Debes crear un proyecto web donde en la página index.html te de opción para escribir el nombre del cóctel del que quieres buscar información. Puedes usar un input text o un select (lista) con diferentes cócteles...
 
 - Tienes libertad para decidir la información que vas a usar del JSON y la que vas a mostrar al usuario.
 
