@@ -36,6 +36,7 @@ String texto = "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no
 
 - Al final del fichero copia se va a añadir la frase 'ESTA ES UNA COPIA PERMITIDA DEL QUIJOTE'.
 
+___
 
 **Como resultado final debes obtener en el directorio copia un fichero llamado quijote_copia.txt con el siguiente contenido:**
 
