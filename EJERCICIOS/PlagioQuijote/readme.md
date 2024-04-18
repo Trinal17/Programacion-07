@@ -9,14 +9,12 @@
 
 ![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/a57a7d18-013f-4877-bf3d-7a3d892a27e9)
 
-- El objetivo es trabajar con la interface Path https://docs.oracle.com/en%2Fjava%2Fjavase%2F11%2Fdocs%2Fapi%2F%2F/java.base/java/nio/file/Path.html
+- El objetivo es trabajar con:
+    - La interface Path https://docs.oracle.com/en%2Fjava%2Fjavase%2F11%2Fdocs%2Fapi%2F%2F/java.base/java/nio/file/Path.html
+    - La clase Paths https://docs.oracle.com/en%2Fjava%2Fjavase%2F11%2Fdocs%2Fapi%2F%2F/java.base/java/nio/file/Paths.html
+    - La clasea Files https://docs.oracle.com/en%2Fjava%2Fjavase%2F11%2Fdocs%2Fapi%2F%2F/java.base/java/nio/file/Files.html
+    - Diferentes clases de los paquetes java.io y java.nio aprendiendo diferentes formas de crear y leer ficheros.
 
-- Si el fichero original no existe se creará con el contenido.
-```
-String texto = "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. \n"
-                + "Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lentejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda. \n"
-                + "El resto della concluían sayo de velarte, calzas de velludo para las fiestas con sus pantuflos de lo mismo, los días de entre semana se honraba con su vellori de lo más fino.\n";
-```
   
 - En la carpeta de usuario del sistema se creará un directorio llamado QUIJOTE. Para ello en Java se utiliza
 ```
@@ -28,6 +26,13 @@ System.getProperty("user.home")
          de: $user.home/QUIJOTE/original/quijote.txt
 
          a: $user.home/QUIJOTEcopia/quijote_copia.txt
+
+- Si el fichero original no existe se creará con el contenido.
+```
+String texto = "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. \n"
+                + "Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lentejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda. \n"
+                + "El resto della concluían sayo de velarte, calzas de velludo para las fiestas con sus pantuflos de lo mismo, los días de entre semana se honraba con su vellori de lo más fino.\n";
+```
 
 - Al final del fichero copia se va a añadir la frase 'ESTA ES UNA COPIA PERMITIDA DEL QUIJOTE'.
 
