@@ -25,7 +25,7 @@ Obtendrás un json con toda la información para preparar un **cocktail Margarit
 
 - Tienes libertad para decidir la información que vas a usar del JSON y la que vas a mostrar al usuario.
 
-- En base a la información que vas a usar del JSON recuerda crear el modelo de clases pertinentes. Recuerda que los atributos deben llamarse igual que las propiedades del Json.
+- En base a la información que vas a usar del JSON recuerda crear el modelo de clases pertinentes. Ten en cuenta que los atributos deben llamarse igual que las propiedades del Json.
 
 - Decide el formato HTML de la página resultado (una tabla, una ficha con la imagen y los ingredientes en una lista....).
 
