@@ -2,7 +2,7 @@
 
 Vas a poner en práctica lo aprendido en el proyecto <a href="https://github.com/profeMelola/Programacion-07-2023-24/tree/main/EJERCICIOS/POKEDEX">POKEDEX</a>
 
-Ahora vas a trabajar con otra API REST gratuita https://www.thecocktaildb.com/
+Ahora vas a trabajar con otra **API REST** gratuita https://www.thecocktaildb.com/
 
 
 <img src="https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/4a971e5f-e20c-4c11-9fda-e43151a17ff3" height="400"/>
