@@ -11,11 +11,25 @@ ___
 
 Si accedes al API puedes observar las diferentes formas de obtener información en formato JSON (con la clave gratuita para fines educativos: key 1).
 
-Por ejemplo, para obtener información de un cocktail por nombre, usa algo así: www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita
+Por ejemplo, para obtener información de un cóctel por nombre, usa algo así: www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita
 
 Obtendrás un json con toda la informació para preparar un **cocktail Margarita**.
 
 
 ![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/96db93ec-3cb5-492d-ae15-6b22bd72bcf2)
+
+
+## Desarrolla un proyecto web. Requisitos
+
+- Debes crear un proyecto web donde en la página index.xml te de opción para escribir el nombre del cóctel del que quieres buscar información.
+
+Puedes usar un input text o un select (lista) con diferentes cócteles.
+
+- Tienes libertad para decidir la información que vas a usar del JSON y la que vas a mostrar al usuario.
+
+- Decide el formato HTML de la página resultado (una tabla, una ficha con la imagen y los ingredientes en una lista....).
+
+- Sube tu proyecto a la carpeta de entregas.
+
 
 
