@@ -1,6 +1,6 @@
 # TheCocktailDB.com
 
-Vas a poner en práctica lo aprendido en el proyecto <a href="https://github.com/profeMelola/Programacion-07-2023-24/tree/main/EJERCICIOS/POKEDEX">POKEDEX</a>
+Vas a poner en práctica lo aprendido en el proyecto <a href="https://github.com/profeMelola/Programacion-07-2023-24/tree/main/EJERCICIOS/POKEDEX" target=""_blank>POKEDEX</a>
 
 Ahora vas a trabajar con otra API REST gratuita https://www.thecocktaildb.com/
 
