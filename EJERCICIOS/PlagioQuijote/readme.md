@@ -7,8 +7,6 @@
 
 - Vamos a partir de los fuentes iniciales proporcionados (de una aplicación de consola) y convertirlos a una aplicación Web (como hemos aprendido en clase)
 
-![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/a57a7d18-013f-4877-bf3d-7a3d892a27e9)
-
 - El objetivo es trabajar con:
     - La interface Path https://docs.oracle.com/en%2Fjava%2Fjavase%2F11%2Fdocs%2Fapi%2F%2F/java.base/java/nio/file/Path.html
     - La clase Paths https://docs.oracle.com/en%2Fjava%2Fjavase%2F11%2Fdocs%2Fapi%2F%2F/java.base/java/nio/file/Paths.html
@@ -45,6 +43,10 @@ ___
 
 ___
 ## Proyecto Web
+
+![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/a57a7d18-013f-4877-bf3d-7a3d892a27e9)
+
+___
 
 ### Página JSP de inicio
 ![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/e44729a1-373b-4264-8d3b-926cc258e007)
