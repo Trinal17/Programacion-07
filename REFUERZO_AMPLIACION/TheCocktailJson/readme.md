@@ -13,7 +13,7 @@ Si accedes al API puedes observar las diferentes formas de obtener información 
 
 Para obtener información de un cóctel por nombre, usa algo por ejemplo: www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita
 
-Obtendrás un json con toda la informació para preparar un **cocktail Margarita**.
+Obtendrás un json con toda la información para preparar un **cocktail Margarita**.
 
 
 ![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/96db93ec-3cb5-492d-ae15-6b22bd72bcf2)
