@@ -5,7 +5,7 @@ Vas a poner en práctica lo aprendido en el proyecto POKEDEX.
 Ahora vas a trabajar con otra API REST gratuita https://www.thecocktaildb.com/
 
 
-![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/4a971e5f-e20c-4c11-9fda-e43151a17ff3)
+<img src="https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/4a971e5f-e20c-4c11-9fda-e43151a17ff3" height="400"/>
 
 
 Si accedes al API puedes observar las diferentes formas de obtener información en formato JSON con la clave gratuita para fines educativos (key 1).
