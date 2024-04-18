@@ -21,11 +21,11 @@ Obtendrás un json con toda la informació para preparar un **cocktail Margarita
 
 ## Desarrolla un proyecto web. Requisitos
 
-- Debes crear un proyecto web donde en la página index.xml te de opción para escribir el nombre del cóctel del que quieres buscar información.
-
-Puedes usar un input text o un select (lista) con diferentes cócteles.
+- Debes crear un proyecto web donde en la página index.xml te de opción para escribir el nombre del cóctel del que quieres buscar información. Puedes usar un input text o un select (lista) con diferentes cócteles...
 
 - Tienes libertad para decidir la información que vas a usar del JSON y la que vas a mostrar al usuario.
+
+- En base a la información que vas a usar del JSON recuerda crear el modelo de clases pertinentes. Recuerda que los atributos deben llamarse igual que las propiedades del Json.
 
 - Decide el formato HTML de la página resultado (una tabla, una ficha con la imagen y los ingredientes en una lista....).
 
