@@ -11,7 +11,7 @@ ___
 
 Si accedes al API puedes observar las diferentes formas de obtener información en formato JSON (con la clave gratuita para fines educativos: key 1).
 
-Por ejemplo, para obtener información de un cóctel por nombre, usa algo así: www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita
+Para obtener información de un cóctel por nombre, usa algo por ejemplo: www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita
 
 Obtendrás un json con toda la informació para preparar un **cocktail Margarita**.
 
