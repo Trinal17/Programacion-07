@@ -6,7 +6,12 @@
    
     1.1. Mostrar la estructura de carpetas y archivos.
    
-    1.2. Encontrar un archivo en una estructura de directorios. Debe hacerlo usando recursividad.
+    1.2. Encontrar un archivo en una estructura de directorios.
+
+Te darás cuenta que la mejor forma de implementar estas funciones es mediante recursividad.
+
+Empieza por la opción 1.1. que es más fácil.
+
 
 3. Descarga el zip y monta la estructura de carpetas en el directorio home del usuario.
 
