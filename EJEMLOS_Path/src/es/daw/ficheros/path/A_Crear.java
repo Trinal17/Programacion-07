@@ -24,9 +24,7 @@ public class A_Crear {
             
             Path p1 = Paths.get("java", "temario.txt");
             
-            Path patri = Paths.get("java/patricia.txt");
-            
-            //Path p1 = Paths.get("temario.txt");
+            Path patri = Paths.get("java/temario.txt");
             
             try{
                 //crea un fichero si aún no existe...
@@ -37,7 +35,6 @@ public class A_Crear {
             }catch(IOException e){
                 e.printStackTrace();
             }
-            
             
             //Otra forma de obtener el path menos habitual
             Path p2 = FileSystems.getDefault().getPath("java", "temario.txt");
