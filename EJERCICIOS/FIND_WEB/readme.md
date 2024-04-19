@@ -12,8 +12,11 @@ Te darás cuenta que la mejor forma de implementar estas funciones es mediante r
 
 Empieza por la opción 1.1. que es más fácil.
 
+**Crear fichero de log**
+
 Además debes crear en la $user.home/FIND_WEB un archivo de text llamado FIND_WEB.log que contenga una línea por cada directorio o fichero de esa estructura de carpetas:
 
+![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/02cb1430-4827-4186-9613-65558f5d467a)
 
 
 3. **Descarga el zip y monta la estructura de carpetas en el directorio home del usuario.**
