@@ -3,7 +3,11 @@
 
 ## Ejercicio 1: POKEDEX
 
+https://github.com/profeMelola/Programacion-07-2023-24/tree/main/EJERCICIOS/POKEDEX
+
 ## Ejercicio 2: PlagioQuijote
+
+https://github.com/profeMelola/Programacion-07-2023-24/tree/main/EJERCICIOS/PlagioQuijote
 
 ## Ejercicio 3: FIND FILE WEB. Buscando a Wally
 
