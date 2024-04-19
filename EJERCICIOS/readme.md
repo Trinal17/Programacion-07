@@ -14,10 +14,11 @@ https://github.com/profeMelola/Programacion-07-2023-24/tree/main/EJERCICIOS/Plag
 ![alt text](image.png)
 
 1. Vas a crear un proyecto web que hará dos cosas:
-1.1. Mostrar la estructura de carpetas y archivos.
-1.2. Encuentrar un archivo en una estructura de directorios. Debe hacerlo usando recursividad.
+   
+    1.1. Mostrar la estructura de carpetas y archivos.
+    1.2. Encuentrar un archivo en una estructura de directorios. Debe hacerlo usando recursividad.
 
-2. Descarga el zip y monta la estructura de carpetas en el directorio home del usuario.
+3. Descarga el zip y monta la estructura de carpetas en el directorio home del usuario.
 
 ![alt text](image-1.png)
 
