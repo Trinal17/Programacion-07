@@ -2,7 +2,7 @@
 
 ![alt text](image.png)
 
-1. Vas a crear un proyecto web que hará dos cosas:
+1. **Vas a crear un proyecto web que hará dos cosas:**
    
     1.1. Mostrar la estructura de carpetas y archivos.
    
@@ -12,8 +12,11 @@ Te darás cuenta que la mejor forma de implementar estas funciones es mediante r
 
 Empieza por la opción 1.1. que es más fácil.
 
+Además debes crear en la $user.home/FIND_WEB un archivo de text llamado FIND_WEB.log que contenga una línea por cada directorio o fichero de esa estructura de carpetas:
 
-3. Descarga el zip y monta la estructura de carpetas en el directorio home del usuario.
+
+
+3. **Descarga el zip y monta la estructura de carpetas en el directorio home del usuario.**
 
 ![alt text](image-1.png)
 
@@ -23,11 +26,11 @@ Dentro de esta estructura hay ocultos tres archivos llamados:
 - CHENCHO.txt
 
 
-3. En la página index.html contendrá un formulario para permitir al usuario elegir la acción a realizar:
+3. **En la página index.html contendrá un formulario para permitir al usuario elegir la acción a realizar:**
 
 ![alt text](image-2.png)
 
-4. Dicho Servlet devolverá una página HTML dependiendo de la acción elegida:
+4. **Dicho Servlet devolverá una página HTML dependiendo de la acción elegida:**
 
 ![alt text](image-3.png)
 
