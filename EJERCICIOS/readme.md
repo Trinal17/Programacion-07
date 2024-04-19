@@ -55,3 +55,4 @@ Puedes ver el ejemplo del GitHub: https://github.com/profeMelola/Programacion-07
 
 ## Ejercicio 5: Serializar
 
+https://github.com/profeMelola/Programacion-07-2023-24/tree/main/EJERCICIOS/Serializar
