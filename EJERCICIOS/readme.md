@@ -13,23 +13,29 @@ https://github.com/profeMelola/Programacion-07-2023-24/tree/main/EJERCICIOS/Plag
 
 ![alt text](image.png)
 
-1. Vas a crear un proyecto web que encuentre un archivo en una estructura de directorios. Debe hacerlo usando recursividad.
+1. Vas a crear un proyecto web que hará dos cosas:
+1.1. Mostrar la estructura de carpetas y archivos.
+1.2. Encuentrar un archivo en una estructura de directorios. Debe hacerlo usando recursividad.
 
-2. Vamos a esconder tres archivos en la estructura de subdirectorios del directorio home del usuario.
-Llama a los archivos:
-- WALLY.TXT
-- NEMO.TXT
-- CHENCHO.TXT
-- NO_EXISTE.TXT
+2. Descarga el zip y monta la estructura de carpetas en el directorio home del usuario.
 
-Guárdalos en diferentes subdirectorios.
+![alt text](image-1.png)
 
-3. En la página index.html contendrá un formulario con una lista desplegable donde saldrán esos tres nombres para que el usuario elija uno y se realice la llamada al Servlet **FindServlet.java**
+Dentro de esta estructura hay ocultos tres archivos llamados:
+- WALLY.txt
+- NEMO.txt
+- CHENCHO.txt
 
-4. Dicho Servlet devolverá una página HTML indicando según los diferentes casos:
-- El archivo no se ha encontrado.
-- El archivo XXXX se ha encontrado en la siguiente ruta absoluta YYYYYYYYYYYYYYYYYYY
 
+3. En la página index.html contendrá un formulario para permitir al usuario elegir la acción a realizar:
+
+![alt text](image-2.png)
+
+4. Dicho Servlet devolverá una página HTML dependiendo de la acción elegida:
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
 
 ## Ejercicio 4: Buffer en binario
 
