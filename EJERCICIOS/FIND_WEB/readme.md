@@ -41,7 +41,7 @@ Dentro de esta estructura hay ocultos tres archivos llamados:
 
 **Versión mejorada usando la etiqueta HTML details (https://developer.mozilla.org/es/docs/Web/HTML/Element/details)!!!!**
 
-<img src="[image-3.png](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/d97de112-3172-4407-a0d3-321dbe25e44a)" height="300px"/>
+<img src="https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/d97de112-3172-4407-a0d3-321dbe25e44a" height="300px"/>
 
 ### Buscar archivo:
 <img src="image-4.png" height="200px"/>
