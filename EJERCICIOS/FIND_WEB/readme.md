@@ -37,4 +37,4 @@ Dentro de esta estructura hay ocultos tres archivos llamados:
 
 <img src="image-3.png" height="300px"/>
 
-<img src="image-4.png" height="300px"/>
+<img src="image-4.png" height="200px"/>
