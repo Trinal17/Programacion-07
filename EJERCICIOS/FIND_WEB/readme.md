@@ -31,10 +31,10 @@ Dentro de esta estructura hay ocultos tres archivos llamados:
 
 ## En la página index.html contendrá un formulario para permitir al usuario elegir la acción a realizar
 
-![alt text](image-2.png)
+<img src="image-2.png" height="200px"/>
 
 ## Dicho Servlet devolverá una página HTML dependiendo de la acción elegida:
 
-![alt text](image-3.png)
+<img src="image-3.png" height="200px"/>
 
-![alt text](image-4.png)
+<img src="image-4.png" height="200px"/>
