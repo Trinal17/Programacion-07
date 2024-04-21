@@ -35,6 +35,14 @@ Dentro de esta estructura hay ocultos tres archivos llamados:
 
 ## Dicho Servlet devolverá una página HTML dependiendo de la acción elegida:
 
+**Mostrar estructura de carpetas:**
+
 <img src="image-3.png" height="300px"/>
 
+Versión mejorada!!!!
+
+![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/d97de112-3172-4407-a0d3-321dbe25e44a)
+
+
+**Buscar archivo:**
 <img src="image-4.png" height="200px"/>
