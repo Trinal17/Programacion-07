@@ -1,4 +1,4 @@
-# PRÁCTICA GUIADA: Solución de los ejercicio 7 y 8 en un proyeto web
+# PRÁCTICA GUIADA: ejercicio 7 y 8 integrados en un proyeto web
 
 ## Pasos 
 1. Monta el proyecto en Visual Studio Code.
