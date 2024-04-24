@@ -9,8 +9,8 @@
 
    ![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/3e8658c1-e57a-4b4b-a1e2-256e281ddd6d)
 
-
-### Ejercicio 7
+___
+### EJERCICIO 7
 
 El resultado a obtener:
 
@@ -22,8 +22,8 @@ Observa el código y en base a lo aprendido en clase ¿qué mejoras realizarías
 
 ![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/277256c9-bccd-486f-8c79-3a7ba49f61c9)
 
-
-### Ejercicio 8
+___
+### EJERCICIO 8
 
 El resultado a obtener:
 
