@@ -18,6 +18,8 @@ El resultado a obtener:
 
 ### Ejercicio 8
 
+El resultado a obtener:
+
 ![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/1c3fa392-ec54-47bd-accc-cc70791cfc36)
 
 
