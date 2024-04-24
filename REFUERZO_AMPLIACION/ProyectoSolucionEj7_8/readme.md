@@ -16,6 +16,13 @@ El resultado a obtener:
 
 ![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/acc31847-4d08-4ae9-adee-7c45c35d1734)
 
+#### Mejora el ejercicio 7
+
+Observa el código y en base a lo aprendido en clase ¿qué mejoras realizarías?
+
+![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/277256c9-bccd-486f-8c79-3a7ba49f61c9)
+
+
 ### Ejercicio 8
 
 El resultado a obtener:
