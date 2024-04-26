@@ -1,6 +1,6 @@
 # AGENDA WEB
 
-Vas a implementar una Agenda de Teléfono Web. 
+Vas a implementar una **Agenda de Teléfonos Web. **
 
 ![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/28b02eeb-37d5-40dc-a6f2-875ec3217142)
 
