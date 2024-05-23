@@ -143,6 +143,11 @@ En resumen:
 - **BufferedWriter es mejor opción que FileWriter:** si se necesita escribir grandes cantidades de datos en un archivo, o si desea mejorar el rendimiento de su aplicación al escribir datos en archivos.
 - **FileWriter es mejor opción que BufferedWriter:** si solo necesita escribir una pequeña cantidad de datos en el archivo, FileWriter puede ser suficiente.
 
+## Diferencia java.io vs java.nio
+
+![image](https://github.com/profeMelola/Programacion-07-2023-24/assets/91023374/f748dd92-7530-4aa5-8a16-e407f744548d)
+
+
 ## **Rutas (Paths)**
 
 Se puede representar rutas en el sistema con Paths, estas rutas pueden o no existir, es obligación del programador validarlas. Estas rutas son independiente del sistema operativo y se crean con el formato del sistema operativo en el cual se ejecuta. En windows se crearan con `\` mientras que en linux con `/`.
